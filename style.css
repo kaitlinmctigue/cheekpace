@@ -1,0 +1,12 @@
+
+img {
+            width: 100%;
+            /*max-width: 1000px;*/
+            margin: 0 auto;
+            display: block;
+      }
+
+p {
+	color: red;
+	text-align: center;
+}
